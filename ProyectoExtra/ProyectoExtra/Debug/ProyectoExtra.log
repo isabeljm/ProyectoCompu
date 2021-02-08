@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\uglyp\documents\proyectoextra\proyectoextra\proyectoextra\figuras.h(40): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\uglyp\documents\proyectoextra\proyectoextra\proyectoextra\figuras.h(109): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\uglyp\documents\proyectoextra\proyectoextra\proyectoextra\figuras.h(164): warning C4101: 'theta': variable local sin referencia
+c:\users\uglyp\documents\proyectoextra\proyectoextra\proyectoextra\figuras.h(164): warning C4101: 'phi': variable local sin referencia
+  ProyectoExtra.vcxproj -> C:\Users\uglyp\Documents\ProyectoExtra\ProyectoExtra\ProyectoExtra\Debug\ProyectoExtra.exe
